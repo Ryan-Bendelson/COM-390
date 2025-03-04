@@ -1,4 +1,4 @@
-This is an application which calculates the linear regression for the number of fatal car accidents in a state that occur within a year given the number of active interstate highways in that state and the maximum speed limit in that state. It uses an SQL database to store the information and a VB front-end application for clients to access.
+This (partner project) is an application which calculates the linear regression for the number of fatal car accidents in a state that occur within a year given the number of active interstate highways in that state and the maximum speed limit in that state. It uses an SQL database to store the information and a VB front-end application for clients to access.
 
 IMPORTANT!!!
 Before Running Application:
